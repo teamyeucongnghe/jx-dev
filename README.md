@@ -70,7 +70,7 @@ Mẫu Source Võ Lâm Truyền Kỳ Chuẩn Cày Cuốc 2005.
 
 Mọi Ý Kiến Đóng Góp Vui Lòng Liên Hệ Email Khi Cần Hỗ Trợ Đừng Ngần Ngại Chúng Tôi Hỗ Trợ Bạn:
 
-info.phucnguyencongnghe@gmail.com
+info.xxx@gmail.com
 
 ## Lịch Sử Cập Nhật
 
@@ -80,4 +80,4 @@ info.phucnguyencongnghe@gmail.com
 
 1. Clone repo này về máy:
    ```bash
-    git clone https://github.com/toilaphucnguyen/volamtruyenky.git
+    git clone https://github.com/teamyeucongnghe/volamtruyenky.git
